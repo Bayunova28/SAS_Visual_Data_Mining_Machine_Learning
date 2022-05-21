@@ -1,4 +1,4 @@
-# SAS Visual Data Mining Machine Learning
+# SAS Visual Data Mining & Machine Learning
 * Instructor : <b>Iwan Prasetiawan S.KOM., M.M..</b>
 * Place : <b>Multimedia Nusantara University</b>
 * Course : <b>Big Data Analytics II</b>
