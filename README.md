@@ -19,16 +19,3 @@ to describe and explore data analysis using neural Network algorithm to provides
 
 ### Neural Network Model
 <img align="center" src="https://github.com/Bayunova28/SAS_Visual_Data_Mining_Machine_Learning/blob/master/images/neural-network-model.png" height="500" width="1000">
-
-### Confusion Matrix
-<img align="center" src="https://github.com/Bayunova28/SAS_Visual_Data_Mining_Machine_Learning/blob/master/images/confusion-matrix.jpeg" height="400" width="1000">
-
-### Lift Chart
-<img align="center" src="https://github.com/Bayunova28/SAS_Visual_Data_Mining_Machine_Learning/blob/master/images/lift-chart.jpeg" height="400" width="1000"> 
-  
-### ROC (Receiver Operating Characteristic Curve)
-<img align="center" src="https://github.com/Bayunova28/SAS_Visual_Data_Mining_Machine_Learning/blob/master/images/roc.jpeg" height="400" width="1000">  
-  
-### Assesment
-<img align="center" src="https://github.com/Bayunova28/SAS_Visual_Data_Mining_Machine_Learning/blob/master/images/assesment.jpeg" height="400" width="1200">   
-  
