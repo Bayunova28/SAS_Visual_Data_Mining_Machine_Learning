@@ -9,7 +9,7 @@
 to describe and explore data analysis using neural Network algorithm to provides procedures for sampling, data exploration, dimension reduction, and model assessment<p>
 
 ### Data Exploration
-<img align="center" src="https://github.com/Bayunova28/SAS_Visual_Data_Mining_Machine_Learning/blob/master/images/data-exploration.png" height="500" width="1000">
+<img align="center" src="https://github.com/Bayunova28/SAS_Visual_Data_Mining_Machine_Learning/blob/master/images/data-exploration2.png" height="500" width="1000">
   
 ### Impute Missing Observations
 <img align="center" src="https://github.com/Bayunova28/SAS_Visual_Data_Mining_Machine_Learning/blob/master/images/impute-missing-observations.png" height="500" width="1000">
@@ -19,3 +19,25 @@ to describe and explore data analysis using neural Network algorithm to provides
 
 ### Neural Network Model
 <img align="center" src="https://github.com/Bayunova28/SAS_Visual_Data_Mining_Machine_Learning/blob/master/images/neural-network-model.png" height="500" width="1000">
+
+## SAS® VDMML: Build & Compare Several Types of Models
+### Objective
+<p align="justify">Students understand and are able to implement the data science project using the SAS Visual Data Mining and Machine Learning to provides procedures for data exploration, model building, model comparison and selection.</p>
+
+### Data Preparation
+<img align="center" src="https://github.com/Bayunova28/SAS_Visual_Data_Mining_Machine_Learning/blob/master/images/data-exploration.png" height="600" width="1000">
+
+### C45 (Decision Tree)
+<img align="center" src="https://github.com/Bayunova28/SAS_Visual_Data_Mining_Machine_Learning/blob/master/images/decision-tree.png" height="500" width="1000">
+
+### Logistic Regression
+<img align="center" src="https://github.com/Bayunova28/SAS_Visual_Data_Mining_Machine_Learning/blob/master/images/logistic-regression.png" height="500" width="1000">
+
+### Gradient Boosting
+<img align="center" src="https://github.com/Bayunova28/SAS_Visual_Data_Mining_Machine_Learning/blob/master/images/gradient-boosting.png" height="500" width="1000">
+
+### Neural Network
+<img align="center" src="https://github.com/Bayunova28/SAS_Visual_Data_Mining_Machine_Learning/blob/master/images/neural-network.png" height="500" width="1000">
+
+### Model Selection & Scoring
+<img align="center" src="https://github.com/Bayunova28/SAS_Visual_Data_Mining_Machine_Learning/blob/master/images/model-selection.png" height="500" width="1000">
